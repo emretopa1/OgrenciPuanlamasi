@@ -1,0 +1,7 @@
+C:\Users\ش\source\repos\Gazi.KazanMyo.OgrenciPuanlamasi\Gazi.KazanMyo.OgrenciPuanlamasi\bin\Debug\Gazi.KazanMyo.OgrenciPuanlamasi.exe.config
+C:\Users\ش\source\repos\Gazi.KazanMyo.OgrenciPuanlamasi\Gazi.KazanMyo.OgrenciPuanlamasi\bin\Debug\Gazi.KazanMyo.OgrenciPuanlamasi.exe
+C:\Users\ش\source\repos\Gazi.KazanMyo.OgrenciPuanlamasi\Gazi.KazanMyo.OgrenciPuanlamasi\bin\Debug\Gazi.KazanMyo.OgrenciPuanlamasi.pdb
+C:\Users\ش\source\repos\Gazi.KazanMyo.OgrenciPuanlamasi\Gazi.KazanMyo.OgrenciPuanlamasi\obj\Debug\Gazi.KazanMyo.OgrenciPuanlamasi.csprojAssemblyReference.cache
+C:\Users\ش\source\repos\Gazi.KazanMyo.OgrenciPuanlamasi\Gazi.KazanMyo.OgrenciPuanlamasi\obj\Debug\Gazi.KazanMyo.OgrenciPuanlamasi.csproj.CoreCompileInputs.cache
+C:\Users\ش\source\repos\Gazi.KazanMyo.OgrenciPuanlamasi\Gazi.KazanMyo.OgrenciPuanlamasi\obj\Debug\Gazi.KazanMyo.OgrenciPuanlamasi.exe
+C:\Users\ش\source\repos\Gazi.KazanMyo.OgrenciPuanlamasi\Gazi.KazanMyo.OgrenciPuanlamasi\obj\Debug\Gazi.KazanMyo.OgrenciPuanlamasi.pdb
