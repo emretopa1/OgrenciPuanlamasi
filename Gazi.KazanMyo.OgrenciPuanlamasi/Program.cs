@@ -39,7 +39,7 @@ namespace Gazi.KazanMyo.OgrenciPuanlamasi
                 ogrenciler[i, 3] = Console.ReadLine();
                 final = Convert.ToInt32(Console.ReadLine());
 
-                ort = Convert.ToInt32(vize * 0.4 + final * 0.6);
+                ort = Convert.ToInt32((vize * 0.4) + (final * 0.6));
                 Console.WriteLine("{0}", ort);
                 ogrenciler[i, 4] = Console.ReadLine();
 
